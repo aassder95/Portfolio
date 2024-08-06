@@ -34,8 +34,9 @@ Pixel Fish Defender는 물고기를 주제로 한 2D 디펜스 게임입니다. 
 - **데이터 저장**: 사용자 데이터를 MySQL에 저장
 - **상점 기능**: cronjob을 이용한 주기적인 상점 기능 구현
 
-## 연락처 및 APK 파일 다운로드
+## 연락처 및 파일 다운로드
 
 - **연락처**: 010.8953.1458
 - **이메일**: khdsdok@naver.com
-- **APK 파일 다운로드**: [Pixel Fish Defender APK](https://drive.google.com/file/d/1qsBkc1AFk62TUf64vlcXbsDaN85o-fzv/view?usp=sharing)
+- **주요 코드 설명파일 다운로드**: [다운로드](https://drive.google.com/file/d/11SGh04WETSJOSUFwaIF5YGvrQXVWOB__/view?usp=drive_link)
+- **APK 파일 다운로드**: [다운로드](https://drive.google.com/file/d/1qsBkc1AFk62TUf64vlcXbsDaN85o-fzv/view?usp=sharing)
