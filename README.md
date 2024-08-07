@@ -34,6 +34,15 @@ Pixel Fish Defender는 물고기를 주제로 한 2D 디펜스 게임입니다. 
 - **데이터 저장**: 사용자 데이터를 MySQL에 저장
 - **상점 기능**: cronjob을 이용한 주기적인 상점 기능 구현
 
+### 스크린샷
+
+![Example Image](Image/home.png)
+![Example Image](Image/deck.png)
+![Example Image](Image/shop.png)
+![Example Image](Image/rank.png)
+![Example Image](Image/setting.png)
+![Example Image](Image/game.png)
+
 ## 연락처 및 파일 다운로드
 
 - **연락처**: 010.8953.1458
